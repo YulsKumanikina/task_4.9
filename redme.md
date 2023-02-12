@@ -1,0 +1,1 @@
+![скрин сайта](./site/images/scrin.jpg)
